@@ -1,0 +1,822 @@
+2020-03-17 22:38:59,756 :: File: D331.ann
+2020-03-17 22:38:59,756 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,756 :: Matching annotations: Allergy 0 19 red-orange food dye C0016461 : Allergy 0 19 red-orange food dye C0016461
+2020-03-17 22:38:59,756 :: Matching annotations: Allergy 0 19 red-orange food dye C2960309 : Allergy 0 19 red-orange food dye C2960309
+2020-03-17 22:38:59,756 :: Coinciding annotations: Allergy 0 19 red-orange food dye C0016461 : Allergy 0 19 red-orange food dye C2960309
+2020-03-17 22:38:59,756 :: Correct match: Allergy 0 19 red-orange food dye C0016461 : Allergy 0 19 red-orange food dye C2960309
+2020-03-17 22:38:59,756 :: File: D301.ann
+2020-03-17 22:38:59,756 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,756 :: Matching annotations: Allergy 0 5 chile C1123028 : Allergy 0 5 chile C1123028
+2020-03-17 22:38:59,756 :: Matching annotations: Allergy 0 5 chile C1123028 : Allergy 0 5 chile C1123028
+2020-03-17 22:38:59,756 :: Coinciding annotations: Allergy 0 5 chile C1123028 : Allergy 0 5 chile C1123028
+2020-03-17 22:38:59,756 :: Correct match: Allergy 0 5 chile C1123028 : Allergy 0 5 chile C1123028
+2020-03-17 22:38:59,756 :: File: D332.ann
+2020-03-17 22:38:59,756 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,756 :: Matching annotations: Allergy 0 13 nitroglycerin C0017887 : Allergy 0 13 nitroglycerin C0017887
+2020-03-17 22:38:59,756 :: Matching annotations: Allergy 0 13 nitroglycerin C0017887 : Allergy 0 13 nitroglycerin C0017887
+2020-03-17 22:38:59,756 :: Coinciding annotations: Allergy 0 13 nitroglycerin C0017887 : Allergy 0 13 nitroglycerin C0017887
+2020-03-17 22:38:59,756 :: Correct match: Allergy 0 13 nitroglycerin C0017887 : Allergy 0 13 nitroglycerin C0017887
+2020-03-17 22:38:59,756 :: File: D302.ann
+2020-03-17 22:38:59,756 :: Annotations A: 3	Annotations B: 2
+2020-03-17 22:38:59,756 :: Matching annotations: Allergy 0 9 iv iodine C0021966 : Allergy 0 9 iv iodine C0021966
+2020-03-17 22:38:59,757 :: Matching annotations: Allergy 0 24 iv iodine based contrast C0879373 : Allergy 0 24 iv iodine based contrast C0879373
+2020-03-17 22:38:59,757 :: Matching annotations: Allergy 16 24 contrast C0009924 : Allergy 16 24 contrast C0009924
+2020-03-17 22:38:59,757 :: Matching annotations: Allergy 0 2 iv C0348016 : Allergy 0 2 iv C0348016
+2020-03-17 22:38:59,757 :: Matching annotations: Allergy 3 24 iodine based contrast C0879373 : Allergy 3 24 iodine based contrast C0879373
+2020-03-17 22:38:59,757 :: `Allergy 0 2 iv C0348016` contained in `Allergy 0 9 iv iodine C0021966`
+2020-03-17 22:38:59,757 :: `Allergy 0 2 iv C0348016` contained in `Allergy 0 24 iv iodine based contrast C0879373`
+2020-03-17 22:38:59,757 :: `Allergy 3 24 iodine based contrast C0879373` contained in `Allergy 0 24 iv iodine based contrast C0879373`
+2020-03-17 22:38:59,757 :: Patrtial match: Allergy 0 24 iv iodine based contrast C0879373 : Allergy 3 24 iodine based contrast C0879373
+2020-03-17 22:38:59,757 :: `Allergy 3 24 iodine based contrast C0879373` :contains: `Allergy 16 24 contrast C0009924`
+2020-03-17 22:38:59,757 :: Partial match: `Allergy 16 24 contrast C0009924` in `Allergy 3 24 iodine based contrast C0879373`
+2020-03-17 22:38:59,757 :: File: D333.ann
+2020-03-17 22:38:59,757 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,757 :: Matching annotations: Allergy 0 21 artificial sweeteners C0003920 : Allergy 0 21 artificial sweeteners C0003920
+2020-03-17 22:38:59,757 :: Matching annotations: Allergy 0 21 artificial sweeteners C0003920 : Allergy 0 21 artificial sweeteners C0003920
+2020-03-17 22:38:59,757 :: Coinciding annotations: Allergy 0 21 artificial sweeteners C0003920 : Allergy 0 21 artificial sweeteners C0003920
+2020-03-17 22:38:59,757 :: Correct match: Allergy 0 21 artificial sweeteners C0003920 : Allergy 0 21 artificial sweeteners C0003920
+2020-03-17 22:38:59,757 :: File: D303.ann
+2020-03-17 22:38:59,757 :: Annotations A: 2	Annotations B: 2
+2020-03-17 22:38:59,757 :: Matching annotations: Allergy 0 10 penicillin C0220892 : Allergy 0 10 penicillin C0220892
+2020-03-17 22:38:59,757 :: Matching annotations: Allergy 12 19 aspirin C0004057 : Allergy 12 19 aspirin C0004057
+2020-03-17 22:38:59,757 :: Matching annotations: Allergy 0 10 penicillin C0030842 : Allergy 0 10 penicillin C0030842
+2020-03-17 22:38:59,757 :: Matching annotations: Allergy 12 19 aspirin C0004057 : Allergy 12 19 aspirin C0004057
+2020-03-17 22:38:59,757 :: Coinciding annotations: Allergy 0 10 penicillin C0220892 : Allergy 0 10 penicillin C0030842
+2020-03-17 22:38:59,757 :: Correct match: Allergy 0 10 penicillin C0220892 : Allergy 0 10 penicillin C0030842
+2020-03-17 22:38:59,757 :: Coinciding annotations: Allergy 12 19 aspirin C0004057 : Allergy 12 19 aspirin C0004057
+2020-03-17 22:38:59,757 :: Correct match: Allergy 12 19 aspirin C0004057 : Allergy 12 19 aspirin C0004057
+2020-03-17 22:38:59,757 :: File: D334.ann
+2020-03-17 22:38:59,758 :: Annotations A: 3	Annotations B: 3
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 0 5 grass C0018210 : Allergy 0 5 grass C0018210
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 6 11 trees C0040811 : Allergy 6 11 trees C0040811
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 12 16 mold C0369241 : Allergy 12 16 mold C0369241
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 0 5 grass C0018210 : Allergy 0 5 grass C0018210
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 6 11 trees C0040811 : Allergy 6 11 trees C0040811
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 12 16 mold C0369241 : Allergy 12 16 mold C0369241
+2020-03-17 22:38:59,758 :: Coinciding annotations: Allergy 0 5 grass C0018210 : Allergy 0 5 grass C0018210
+2020-03-17 22:38:59,758 :: Correct match: Allergy 0 5 grass C0018210 : Allergy 0 5 grass C0018210
+2020-03-17 22:38:59,758 :: Coinciding annotations: Allergy 6 11 trees C0040811 : Allergy 6 11 trees C0040811
+2020-03-17 22:38:59,758 :: Correct match: Allergy 6 11 trees C0040811 : Allergy 6 11 trees C0040811
+2020-03-17 22:38:59,758 :: Coinciding annotations: Allergy 12 16 mold C0369241 : Allergy 12 16 mold C0369241
+2020-03-17 22:38:59,758 :: Correct match: Allergy 12 16 mold C0369241 : Allergy 12 16 mold C0369241
+2020-03-17 22:38:59,758 :: File: D304.ann
+2020-03-17 22:38:59,758 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 0 10 macrolides C0003240 : Allergy 0 10 macrolides C0003240
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 0 10 macrolides C0003240 : Allergy 0 10 macrolides C0003240
+2020-03-17 22:38:59,758 :: Coinciding annotations: Allergy 0 10 macrolides C0003240 : Allergy 0 10 macrolides C0003240
+2020-03-17 22:38:59,758 :: Correct match: Allergy 0 10 macrolides C0003240 : Allergy 0 10 macrolides C0003240
+2020-03-17 22:38:59,758 :: File: D340.ann
+2020-03-17 22:38:59,758 :: Annotations A: 2	Annotations B: 2
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 0 3 PCN C0220892 : Allergy 0 3 PCN C0220892
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 4 16 ERYTHROMYCIN C0014806 : Allergy 4 16 ERYTHROMYCIN C0014806
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 0 3 PCN C0220892 : Allergy 0 3 PCN C0220892
+2020-03-17 22:38:59,758 :: Matching annotations: Allergy 4 16 ERYTHROMYCIN C0014806 : Allergy 4 16 ERYTHROMYCIN C0014806
+2020-03-17 22:38:59,758 :: Coinciding annotations: Allergy 0 3 PCN C0220892 : Allergy 0 3 PCN C0220892
+2020-03-17 22:38:59,758 :: Correct match: Allergy 0 3 PCN C0220892 : Allergy 0 3 PCN C0220892
+2020-03-17 22:38:59,759 :: Coinciding annotations: Allergy 4 16 ERYTHROMYCIN C0014806 : Allergy 4 16 ERYTHROMYCIN C0014806
+2020-03-17 22:38:59,759 :: Correct match: Allergy 4 16 ERYTHROMYCIN C0014806 : Allergy 4 16 ERYTHROMYCIN C0014806
+2020-03-17 22:38:59,759 :: File: D305.ann
+2020-03-17 22:38:59,759 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,759 :: Matching annotations: Allergy 0 11 DOMPERIDONE C0013015 : Allergy 0 11 DOMPERIDONE C0013015
+2020-03-17 22:38:59,759 :: Matching annotations: Allergy 0 11 DOMPERIDONE C0013015 : Allergy 0 11 DOMPERIDONE C0013015
+2020-03-17 22:38:59,759 :: Coinciding annotations: Allergy 0 11 DOMPERIDONE C0013015 : Allergy 0 11 DOMPERIDONE C0013015
+2020-03-17 22:38:59,759 :: Correct match: Allergy 0 11 DOMPERIDONE C0013015 : Allergy 0 11 DOMPERIDONE C0013015
+2020-03-17 22:38:59,759 :: File: D341.ann
+2020-03-17 22:38:59,759 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,759 :: Matching annotations: Allergy 0 11 corned beef C0452959 : Allergy 0 11 corned beef C0452959
+2020-03-17 22:38:59,759 :: Matching annotations: Allergy 0 11 corned beef C0452959 : Allergy 0 11 corned beef C0452959
+2020-03-17 22:38:59,759 :: Coinciding annotations: Allergy 0 11 corned beef C0452959 : Allergy 0 11 corned beef C0452959
+2020-03-17 22:38:59,759 :: Correct match: Allergy 0 11 corned beef C0452959 : Allergy 0 11 corned beef C0452959
+2020-03-17 22:38:59,759 :: File: D306.ann
+2020-03-17 22:38:59,759 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,759 :: Matching annotations: Allergy 0 9 phenergan C0546876 : Allergy 0 9 phenergan C0546876
+2020-03-17 22:38:59,759 :: Matching annotations: Allergy 0 9 phenergan C0546876 : Allergy 0 9 phenergan C0546876
+2020-03-17 22:38:59,759 :: Coinciding annotations: Allergy 0 9 phenergan C0546876 : Allergy 0 9 phenergan C0546876
+2020-03-17 22:38:59,759 :: Correct match: Allergy 0 9 phenergan C0546876 : Allergy 0 9 phenergan C0546876
+2020-03-17 22:38:59,759 :: File: D342.ann
+2020-03-17 22:38:59,759 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,759 :: Matching annotations: Allergy 0 10 OLD TETNUS C0039615 : Allergy 0 10 OLD TETNUS C0039615
+2020-03-17 22:38:59,759 :: Matching annotations: Allergy 4 10 TETNUS C0039620 : Allergy 4 10 TETNUS C0039620
+2020-03-17 22:38:59,759 :: `Allergy 4 10 TETNUS C0039620` contained in `Allergy 0 10 OLD TETNUS C0039615`
+2020-03-17 22:38:59,759 :: Patrtial match: Allergy 0 10 OLD TETNUS C0039615 : Allergy 4 10 TETNUS C0039620
+2020-03-17 22:38:59,759 :: File: D307.ann
+2020-03-17 22:38:59,759 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,760 :: Matching annotations: Allergy 0 8 betadine C0032857 : Allergy 0 8 betadine C0032857
+2020-03-17 22:38:59,760 :: Matching annotations: Allergy 0 8 betadine C0032857 : Allergy 0 8 betadine C0032857
+2020-03-17 22:38:59,760 :: Coinciding annotations: Allergy 0 8 betadine C0032857 : Allergy 0 8 betadine C0032857
+2020-03-17 22:38:59,760 :: Correct match: Allergy 0 8 betadine C0032857 : Allergy 0 8 betadine C0032857
+2020-03-17 22:38:59,760 :: File: D343.ann
+2020-03-17 22:38:59,760 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,760 :: Matching annotations: Allergy 0 9 yelow dye C1509750 : Allergy 0 9 yelow dye C1509750
+2020-03-17 22:38:59,760 :: Matching annotations: Allergy 0 9 yelow dye C1441335 : Allergy 0 9 yelow dye C1441335
+2020-03-17 22:38:59,760 :: Coinciding annotations: Allergy 0 9 yelow dye C1509750 : Allergy 0 9 yelow dye C1441335
+2020-03-17 22:38:59,760 :: Correct match: Allergy 0 9 yelow dye C1509750 : Allergy 0 9 yelow dye C1441335
+2020-03-17 22:38:59,760 :: File: D308.ann
+2020-03-17 22:38:59,760 :: Annotations A: 2	Annotations B: 2
+2020-03-17 22:38:59,760 :: Matching annotations: Allergy 0 10 Basil nuts C0440287 : Allergy 0 10 Basil nuts C0440287
+2020-03-17 22:38:59,760 :: Matching annotations: Allergy 15 25 Hazil nuts C0440288 : Allergy 15 25 Hazil nuts C0440288
+2020-03-17 22:38:59,760 :: Matching annotations: Allergy 0 10 Basil nuts C0440287 : Allergy 0 10 Basil nuts C0440287
+2020-03-17 22:38:59,760 :: Matching annotations: Allergy 15 25 Hazil nuts C0440288 : Allergy 15 25 Hazil nuts C0440288
+2020-03-17 22:38:59,760 :: Coinciding annotations: Allergy 0 10 Basil nuts C0440287 : Allergy 0 10 Basil nuts C0440287
+2020-03-17 22:38:59,760 :: Correct match: Allergy 0 10 Basil nuts C0440287 : Allergy 0 10 Basil nuts C0440287
+2020-03-17 22:38:59,760 :: Coinciding annotations: Allergy 15 25 Hazil nuts C0440288 : Allergy 15 25 Hazil nuts C0440288
+2020-03-17 22:38:59,760 :: Correct match: Allergy 15 25 Hazil nuts C0440288 : Allergy 15 25 Hazil nuts C0440288
+2020-03-17 22:38:59,760 :: File: D344.ann
+2020-03-17 22:38:59,760 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,761 :: Matching annotations: Allergy 0 5 latex C0023115 : Allergy 0 5 latex C0023115
+2020-03-17 22:38:59,761 :: Matching annotations: Allergy 0 15 latex sensitive C0023115 : Allergy 0 15 latex sensitive C0023115
+2020-03-17 22:38:59,761 :: Matching annotations: Allergy 0 5 latex C0023115 : Allergy 0 5 latex C0023115
+2020-03-17 22:38:59,761 :: Coinciding annotations: Allergy 0 5 latex C0023115 : Allergy 0 5 latex C0023115
+2020-03-17 22:38:59,761 :: Correct match: Allergy 0 5 latex C0023115 : Allergy 0 5 latex C0023115
+2020-03-17 22:38:59,761 :: `Allergy 0 5 latex C0023115` contained in `Allergy 0 15 latex sensitive C0023115`
+2020-03-17 22:38:59,761 :: File: D309.ann
+2020-03-17 22:38:59,761 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,761 :: Matching annotations: Allergy 0 12 ANTIBIOTICS? C0003232 : Allergy 0 12 ANTIBIOTICS? C0003232
+2020-03-17 22:38:59,761 :: Matching annotations: Allergy 0 12 ANTIBIOTICS? C0003232 : Allergy 0 12 ANTIBIOTICS? C0003232
+2020-03-17 22:38:59,761 :: Coinciding annotations: Allergy 0 12 ANTIBIOTICS? C0003232 : Allergy 0 12 ANTIBIOTICS? C0003232
+2020-03-17 22:38:59,761 :: Correct match: Allergy 0 12 ANTIBIOTICS? C0003232 : Allergy 0 12 ANTIBIOTICS? C0003232
+2020-03-17 22:38:59,761 :: File: D345.ann
+2020-03-17 22:38:59,761 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,761 :: Matching annotations: Allergy 0 5 honey C0019906 : Allergy 0 5 honey C0019906
+2020-03-17 22:38:59,761 :: Matching annotations: Allergy 0 5 honey C0019906 : Allergy 0 5 honey C0019906
+2020-03-17 22:38:59,761 :: Coinciding annotations: Allergy 0 5 honey C0019906 : Allergy 0 5 honey C0019906
+2020-03-17 22:38:59,761 :: Correct match: Allergy 0 5 honey C0019906 : Allergy 0 5 honey C0019906
+2020-03-17 22:38:59,761 :: File: D310.ann
+2020-03-17 22:38:59,761 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,761 :: Matching annotations: Allergy 0 7 demerol C0025376 : Allergy 0 7 demerol C0025376
+2020-03-17 22:38:59,761 :: Matching annotations: Allergy 0 7 demerol C0707898 : Allergy 0 7 demerol C0707898
+2020-03-17 22:38:59,761 :: Coinciding annotations: Allergy 0 7 demerol C0025376 : Allergy 0 7 demerol C0707898
+2020-03-17 22:38:59,761 :: Correct match: Allergy 0 7 demerol C0025376 : Allergy 0 7 demerol C0707898
+2020-03-17 22:38:59,761 :: File: D346.ann
+2020-03-17 22:38:59,761 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,761 :: Matching annotations: Allergy 0 11 feta cheese C0452778 : Allergy 0 11 feta cheese C0452778
+2020-03-17 22:38:59,761 :: Matching annotations: Allergy 0 11 feta cheese C0452778 : Allergy 0 11 feta cheese C0452778
+2020-03-17 22:38:59,761 :: Coinciding annotations: Allergy 0 11 feta cheese C0452778 : Allergy 0 11 feta cheese C0452778
+2020-03-17 22:38:59,762 :: Correct match: Allergy 0 11 feta cheese C0452778 : Allergy 0 11 feta cheese C0452778
+2020-03-17 22:38:59,762 :: File: D311.ann
+2020-03-17 22:38:59,762 :: Annotations A: 2	Annotations B: 2
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 0 10 fragrances C0031000 : Allergy 0 10 fragrances C0031000
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 11 15 dyes C0013343 : Allergy 11 15 dyes C0013343
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 0 10 fragrances C3191042 : Allergy 0 10 fragrances C3191042
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 11 15 dyes C0013343 : Allergy 11 15 dyes C0013343
+2020-03-17 22:38:59,762 :: Coinciding annotations: Allergy 0 10 fragrances C0031000 : Allergy 0 10 fragrances C3191042
+2020-03-17 22:38:59,762 :: Correct match: Allergy 0 10 fragrances C0031000 : Allergy 0 10 fragrances C3191042
+2020-03-17 22:38:59,762 :: Coinciding annotations: Allergy 11 15 dyes C0013343 : Allergy 11 15 dyes C0013343
+2020-03-17 22:38:59,762 :: Correct match: Allergy 11 15 dyes C0013343 : Allergy 11 15 dyes C0013343
+2020-03-17 22:38:59,762 :: File: D347.ann
+2020-03-17 22:38:59,762 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 0 6 iv dye C4072741 : Allergy 0 6 iv dye C4072741
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 0 6 iv dye C0879373 : Allergy 0 6 iv dye C0879373
+2020-03-17 22:38:59,762 :: Coinciding annotations: Allergy 0 6 iv dye C4072741 : Allergy 0 6 iv dye C0879373
+2020-03-17 22:38:59,762 :: Correct match: Allergy 0 6 iv dye C4072741 : Allergy 0 6 iv dye C0879373
+2020-03-17 22:38:59,762 :: File: D312.ann
+2020-03-17 22:38:59,762 :: Annotations A: 3	Annotations B: 3
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 0 8 band aid C0001512 : Allergy 0 8 band aid C0001512
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 10 18 tegaderm C0770788 : Allergy 10 18 tegaderm C0770788
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 19 33 surgiacal tape C0183837 : Allergy 19 33 surgiacal tape C0183837
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 0 8 band aid C0004726 : Allergy 0 8 band aid C0004726
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 10 18 tegaderm C0728341 : Allergy 10 18 tegaderm C0728341
+2020-03-17 22:38:59,762 :: Matching annotations: Allergy 19 33 surgiacal tape C0461560 : Allergy 19 33 surgiacal tape C0461560
+2020-03-17 22:38:59,762 :: Coinciding annotations: Allergy 0 8 band aid C0001512 : Allergy 0 8 band aid C0004726
+2020-03-17 22:38:59,762 :: Correct match: Allergy 0 8 band aid C0001512 : Allergy 0 8 band aid C0004726
+2020-03-17 22:38:59,762 :: Coinciding annotations: Allergy 10 18 tegaderm C0770788 : Allergy 10 18 tegaderm C0728341
+2020-03-17 22:38:59,763 :: Correct match: Allergy 10 18 tegaderm C0770788 : Allergy 10 18 tegaderm C0728341
+2020-03-17 22:38:59,763 :: Coinciding annotations: Allergy 19 33 surgiacal tape C0183837 : Allergy 19 33 surgiacal tape C0461560
+2020-03-17 22:38:59,763 :: Correct match: Allergy 19 33 surgiacal tape C0183837 : Allergy 19 33 surgiacal tape C0461560
+2020-03-17 22:38:59,763 :: File: D348.ann
+2020-03-17 22:38:59,763 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,763 :: Matching annotations: Allergy 0 19 potassium sorbitate C0032841 : Allergy 0 19 potassium sorbitate C0032841
+2020-03-17 22:38:59,763 :: Matching annotations: Allergy 0 19 potassium sorbitate C0032841 : Allergy 0 19 potassium sorbitate C0032841
+2020-03-17 22:38:59,763 :: Coinciding annotations: Allergy 0 19 potassium sorbitate C0032841 : Allergy 0 19 potassium sorbitate C0032841
+2020-03-17 22:38:59,763 :: Correct match: Allergy 0 19 potassium sorbitate C0032841 : Allergy 0 19 potassium sorbitate C0032841
+2020-03-17 22:38:59,763 :: File: D313.ann
+2020-03-17 22:38:59,763 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,763 :: Matching annotations: Allergy 0 13 beta blockers C0001645 : Allergy 0 13 beta blockers C0001645
+2020-03-17 22:38:59,763 :: Matching annotations: Allergy 0 13 beta blockers C0001645 : Allergy 0 13 beta blockers C0001645
+2020-03-17 22:38:59,763 :: Coinciding annotations: Allergy 0 13 beta blockers C0001645 : Allergy 0 13 beta blockers C0001645
+2020-03-17 22:38:59,763 :: Correct match: Allergy 0 13 beta blockers C0001645 : Allergy 0 13 beta blockers C0001645
+2020-03-17 22:38:59,763 :: File: D349.ann
+2020-03-17 22:38:59,763 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,763 :: Matching annotations: Allergy 0 9 Iodine IV C0879373 : Allergy 0 9 Iodine IV C0879373
+2020-03-17 22:38:59,763 :: Matching annotations: Allergy 0 9 Iodine IV C0879373 : Allergy 0 9 Iodine IV C0879373
+2020-03-17 22:38:59,763 :: Coinciding annotations: Allergy 0 9 Iodine IV C0879373 : Allergy 0 9 Iodine IV C0879373
+2020-03-17 22:38:59,763 :: Correct match: Allergy 0 9 Iodine IV C0879373 : Allergy 0 9 Iodine IV C0879373
+2020-03-17 22:38:59,763 :: File: D314.ann
+2020-03-17 22:38:59,763 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,763 :: Matching annotations: Allergy 4 13 L A T E X C0023115 : Allergy 4 13 L A T E X C0023115
+2020-03-17 22:38:59,763 :: Matching annotations: Allergy 4 30 L A T E X    A L L E R G Y C0023115 : Allergy 4 30 L A T E X    A L L E R G Y C0023115
+2020-03-17 22:38:59,763 :: Matching annotations: Allergy 4 13 L A T E X C0023115 : Allergy 4 13 L A T E X C0023115
+2020-03-17 22:38:59,763 :: Coinciding annotations: Allergy 4 13 L A T E X C0023115 : Allergy 4 13 L A T E X C0023115
+2020-03-17 22:38:59,763 :: Correct match: Allergy 4 13 L A T E X C0023115 : Allergy 4 13 L A T E X C0023115
+2020-03-17 22:38:59,764 :: `Allergy 4 13 L A T E X C0023115` contained in `Allergy 4 30 L A T E X    A L L E R G Y C0023115`
+2020-03-17 22:38:59,764 :: File: D350.ann
+2020-03-17 22:38:59,764 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,764 :: Matching annotations: Allergy 0 9 ice cream C0020747 : Allergy 0 9 ice cream C0020747
+2020-03-17 22:38:59,764 :: Matching annotations: Allergy 0 9 ice cream C0020747 : Allergy 0 9 ice cream C0020747
+2020-03-17 22:38:59,764 :: Coinciding annotations: Allergy 0 9 ice cream C0020747 : Allergy 0 9 ice cream C0020747
+2020-03-17 22:38:59,764 :: Correct match: Allergy 0 9 ice cream C0020747 : Allergy 0 9 ice cream C0020747
+2020-03-17 22:38:59,764 :: File: D315.ann
+2020-03-17 22:38:59,764 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,764 :: Matching annotations: Allergy 0 17 sulfa based drugs C0038760 : Allergy 0 17 sulfa based drugs C0038760
+2020-03-17 22:38:59,764 :: Matching annotations: Allergy 0 17 sulfa based drugs C0599503 : Allergy 0 17 sulfa based drugs C0599503
+2020-03-17 22:38:59,764 :: Coinciding annotations: Allergy 0 17 sulfa based drugs C0038760 : Allergy 0 17 sulfa based drugs C0599503
+2020-03-17 22:38:59,764 :: Correct match: Allergy 0 17 sulfa based drugs C0038760 : Allergy 0 17 sulfa based drugs C0599503
+2020-03-17 22:38:59,764 :: File: D351.ann
+2020-03-17 22:38:59,764 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,764 :: Matching annotations: Allergy 0 12 piperacillin C0031955 : Allergy 0 12 piperacillin C0031955
+2020-03-17 22:38:59,764 :: Matching annotations: Allergy 0 12 piperacillin C0031955 : Allergy 0 12 piperacillin C0031955
+2020-03-17 22:38:59,764 :: Coinciding annotations: Allergy 0 12 piperacillin C0031955 : Allergy 0 12 piperacillin C0031955
+2020-03-17 22:38:59,764 :: Correct match: Allergy 0 12 piperacillin C0031955 : Allergy 0 12 piperacillin C0031955
+2020-03-17 22:38:59,764 :: File: D316.ann
+2020-03-17 22:38:59,764 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 0 8 histalog C0019584 : Allergy 0 8 histalog C0019584
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 0 8 histalog C0019584 : Allergy 0 8 histalog C0019584
+2020-03-17 22:38:59,765 :: Coinciding annotations: Allergy 0 8 histalog C0019584 : Allergy 0 8 histalog C0019584
+2020-03-17 22:38:59,765 :: Correct match: Allergy 0 8 histalog C0019584 : Allergy 0 8 histalog C0019584
+2020-03-17 22:38:59,765 :: File: D352.ann
+2020-03-17 22:38:59,765 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 0 13 ETHYL ALCOHOL C0001962 : Allergy 0 13 ETHYL ALCOHOL C0001962
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 0 13 ETHYL ALCOHOL C0001962 : Allergy 0 13 ETHYL ALCOHOL C0001962
+2020-03-17 22:38:59,765 :: Coinciding annotations: Allergy 0 13 ETHYL ALCOHOL C0001962 : Allergy 0 13 ETHYL ALCOHOL C0001962
+2020-03-17 22:38:59,765 :: Correct match: Allergy 0 13 ETHYL ALCOHOL C0001962 : Allergy 0 13 ETHYL ALCOHOL C0001962
+2020-03-17 22:38:59,765 :: File: D317.ann
+2020-03-17 22:38:59,765 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 0 15 parmesan cheese C0452784 : Allergy 0 15 parmesan cheese C0452784
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 0 15 parmesan cheese C0452784 : Allergy 0 15 parmesan cheese C0452784
+2020-03-17 22:38:59,765 :: Coinciding annotations: Allergy 0 15 parmesan cheese C0452784 : Allergy 0 15 parmesan cheese C0452784
+2020-03-17 22:38:59,765 :: Correct match: Allergy 0 15 parmesan cheese C0452784 : Allergy 0 15 parmesan cheese C0452784
+2020-03-17 22:38:59,765 :: File: D353.ann
+2020-03-17 22:38:59,765 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 0 8 SEA FOOD C0206208 : Allergy 0 8 SEA FOOD C0206208
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 0 8 SEA FOOD C0206208 : Allergy 0 8 SEA FOOD C0206208
+2020-03-17 22:38:59,765 :: Coinciding annotations: Allergy 0 8 SEA FOOD C0206208 : Allergy 0 8 SEA FOOD C0206208
+2020-03-17 22:38:59,765 :: Correct match: Allergy 0 8 SEA FOOD C0206208 : Allergy 0 8 SEA FOOD C0206208
+2020-03-17 22:38:59,765 :: File: D318.ann
+2020-03-17 22:38:59,765 :: Annotations A: 2	Annotations B: 2
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 0 22 adhesive/plastic tapes C0001514 : Allergy 0 22 adhesive/plastic tapes C0001514
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 9 22 plastic tapes C2956162 : Allergy 9 22 plastic tapes C2956162
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 0 8 adhesive C0001514 : Allergy 0 8 adhesive C0001514
+2020-03-17 22:38:59,765 :: Matching annotations: Allergy 9 22 plastic tapes C2956162 : Allergy 9 22 plastic tapes C2956162
+2020-03-17 22:38:59,766 :: `Allergy 0 8 adhesive C0001514` contained in `Allergy 0 22 adhesive/plastic tapes C0001514`
+2020-03-17 22:38:59,766 :: `Allergy 9 22 plastic tapes C2956162` contained in `Allergy 0 22 adhesive/plastic tapes C0001514`
+2020-03-17 22:38:59,766 :: Patrtial match: Allergy 0 22 adhesive/plastic tapes C0001514 : Allergy 9 22 plastic tapes C2956162
+2020-03-17 22:38:59,766 :: Coinciding annotations: Allergy 9 22 plastic tapes C2956162 : Allergy 9 22 plastic tapes C2956162
+2020-03-17 22:38:59,766 :: Correct match: Allergy 9 22 plastic tapes C2956162 : Allergy 9 22 plastic tapes C2956162
+2020-03-17 22:38:59,766 :: File: D354.ann
+2020-03-17 22:38:59,766 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,766 :: Matching annotations: Allergy 4 22 TOPICAL LATEX ONLY C0023115 : Allergy 4 22 TOPICAL LATEX ONLY C0023115
+2020-03-17 22:38:59,766 :: Matching annotations: Allergy 12 17 LATEX C0023115 : Allergy 12 17 LATEX C0023115
+2020-03-17 22:38:59,766 :: Matching annotations: Allergy 12 17 LATEX C0023115 : Allergy 12 17 LATEX C0023115
+2020-03-17 22:38:59,766 :: `Allergy 12 17 LATEX C0023115` contained in `Allergy 4 22 TOPICAL LATEX ONLY C0023115`
+2020-03-17 22:38:59,766 :: Coinciding annotations: Allergy 12 17 LATEX C0023115 : Allergy 12 17 LATEX C0023115
+2020-03-17 22:38:59,766 :: Correct match: Allergy 12 17 LATEX C0023115 : Allergy 12 17 LATEX C0023115
+2020-03-17 22:38:59,766 :: File: D319.ann
+2020-03-17 22:38:59,766 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,766 :: Matching annotations: Allergy 0 14 benzodiazepine C4048284 : Allergy 0 14 benzodiazepine C4048284
+2020-03-17 22:38:59,766 :: Matching annotations: Allergy 0 14 benzodiazepine C0005064 : Allergy 0 14 benzodiazepine C0005064
+2020-03-17 22:38:59,766 :: Coinciding annotations: Allergy 0 14 benzodiazepine C4048284 : Allergy 0 14 benzodiazepine C0005064
+2020-03-17 22:38:59,766 :: Correct match: Allergy 0 14 benzodiazepine C4048284 : Allergy 0 14 benzodiazepine C0005064
+2020-03-17 22:38:59,766 :: File: D355.ann
+2020-03-17 22:38:59,766 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,766 :: Matching annotations: Allergy 0 17 BI-VALVE MOLLUSKS C0542270 : Allergy 0 17 BI-VALVE MOLLUSKS C0542270
+2020-03-17 22:38:59,766 :: Matching annotations: Allergy 0 17 BI-VALVE MOLLUSKS C0323858 : Allergy 0 17 BI-VALVE MOLLUSKS C0323858
+2020-03-17 22:38:59,766 :: Coinciding annotations: Allergy 0 17 BI-VALVE MOLLUSKS C0542270 : Allergy 0 17 BI-VALVE MOLLUSKS C0323858
+2020-03-17 22:38:59,766 :: Correct match: Allergy 0 17 BI-VALVE MOLLUSKS C0542270 : Allergy 0 17 BI-VALVE MOLLUSKS C0323858
+2020-03-17 22:38:59,766 :: File: D320.ann
+2020-03-17 22:38:59,766 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,766 :: Matching annotations: Allergy 0 8 ky jelly C0064201 : Allergy 0 8 ky jelly C0064201
+2020-03-17 22:38:59,767 :: Matching annotations: Allergy 0 8 ky jelly C0064201 : Allergy 0 8 ky jelly C0064201
+2020-03-17 22:38:59,767 :: Coinciding annotations: Allergy 0 8 ky jelly C0064201 : Allergy 0 8 ky jelly C0064201
+2020-03-17 22:38:59,767 :: Correct match: Allergy 0 8 ky jelly C0064201 : Allergy 0 8 ky jelly C0064201
+2020-03-17 22:38:59,767 :: File: D356.ann
+2020-03-17 22:38:59,767 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,767 :: Matching annotations: Allergy 0 17 ANTI-SEIZURE MEDS C0003286 : Allergy 0 17 ANTI-SEIZURE MEDS C0003286
+2020-03-17 22:38:59,767 :: Matching annotations: Allergy 0 17 ANTI-SEIZURE MEDS C0003286 : Allergy 0 17 ANTI-SEIZURE MEDS C0003286
+2020-03-17 22:38:59,767 :: Coinciding annotations: Allergy 0 17 ANTI-SEIZURE MEDS C0003286 : Allergy 0 17 ANTI-SEIZURE MEDS C0003286
+2020-03-17 22:38:59,767 :: Correct match: Allergy 0 17 ANTI-SEIZURE MEDS C0003286 : Allergy 0 17 ANTI-SEIZURE MEDS C0003286
+2020-03-17 22:38:59,767 :: File: D321.ann
+2020-03-17 22:38:59,767 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,767 :: Matching annotations: Allergy 0 10 PEANUT OIL C0052300 : Allergy 0 10 PEANUT OIL C0052300
+2020-03-17 22:38:59,767 :: Matching annotations: Allergy 0 10 PEANUT OIL C0052300 : Allergy 0 10 PEANUT OIL C0052300
+2020-03-17 22:38:59,767 :: Coinciding annotations: Allergy 0 10 PEANUT OIL C0052300 : Allergy 0 10 PEANUT OIL C0052300
+2020-03-17 22:38:59,767 :: Correct match: Allergy 0 10 PEANUT OIL C0052300 : Allergy 0 10 PEANUT OIL C0052300
+2020-03-17 22:38:59,767 :: File: D357.ann
+2020-03-17 22:38:59,767 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,767 :: Matching annotations: Allergy 0 26 epidural steroid injection C0196394 : Allergy 0 26 epidural steroid injection C0196394
+2020-03-17 22:38:59,767 :: Matching annotations: Allergy 9 16 steroid C0196394 : Allergy 9 16 steroid C0196394
+2020-03-17 22:38:59,767 :: Matching annotations: Allergy 0 26 epidural steroid injection C0196394 : Allergy 0 26 epidural steroid injection C0196394
+2020-03-17 22:38:59,767 :: Coinciding annotations: Allergy 0 26 epidural steroid injection C0196394 : Allergy 0 26 epidural steroid injection C0196394
+2020-03-17 22:38:59,767 :: Correct match: Allergy 0 26 epidural steroid injection C0196394 : Allergy 0 26 epidural steroid injection C0196394
+2020-03-17 22:38:59,767 :: `Allergy 0 26 epidural steroid injection C0196394` :contains: `Allergy 9 16 steroid C0196394`
+2020-03-17 22:38:59,767 :: File: D322.ann
+2020-03-17 22:38:59,767 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,767 :: Matching annotations: Allergy 0 5 GRAPE C0018208 : Allergy 0 5 GRAPE C0018208
+2020-03-17 22:38:59,767 :: Matching annotations: Allergy 6 11 JELLY C0453543 : Allergy 6 11 JELLY C0453543
+2020-03-17 22:38:59,768 :: Matching annotations: Allergy 0 11 GRAPE JELLY C0018208 : Allergy 0 11 GRAPE JELLY C0018208
+2020-03-17 22:38:59,768 :: `Allergy 0 11 GRAPE JELLY C0018208` :contains: `Allergy 0 5 GRAPE C0018208`
+2020-03-17 22:38:59,768 :: `Allergy 0 11 GRAPE JELLY C0018208` :contains: `Allergy 6 11 JELLY C0453543`
+2020-03-17 22:38:59,768 :: Partial match: `Allergy 6 11 JELLY C0453543` in `Allergy 0 11 GRAPE JELLY C0018208`
+2020-03-17 22:38:59,768 :: File: D358.ann
+2020-03-17 22:38:59,768 :: Annotations A: 3	Annotations B: 2
+2020-03-17 22:38:59,768 :: Matching annotations: Allergy 0 14 nasal steroids C0582125 : Allergy 0 14 nasal steroids C0582125
+2020-03-17 22:38:59,768 :: Matching annotations: Allergy 0 38 nasal steroids caused increased ocular C0582125 : Allergy 0 38 nasal steroids caused increased ocular C0582125
+2020-03-17 22:38:59,768 :: Matching annotations: Allergy 6 14 steroids C0582125 : Allergy 6 14 steroids C0582125
+2020-03-17 22:38:59,768 :: Matching annotations: PHI 0 5 nasal C0001560 : PHI 0 5 nasal C0001560
+2020-03-17 22:38:59,768 :: Matching annotations: Allergy 6 14 steroids C0038317 : Allergy 6 14 steroids C0038317
+2020-03-17 22:38:59,768 :: `PHI 0 5 nasal C0001560` contained in `Allergy 0 14 nasal steroids C0582125`
+2020-03-17 22:38:59,768 :: `Allergy 6 14 steroids C0038317` contained in `Allergy 0 14 nasal steroids C0582125`
+2020-03-17 22:38:59,768 :: Patrtial match: Allergy 0 14 nasal steroids C0582125 : Allergy 6 14 steroids C0038317
+2020-03-17 22:38:59,768 :: `PHI 0 5 nasal C0001560` contained in `Allergy 0 38 nasal steroids caused increased ocular C0582125`
+2020-03-17 22:38:59,768 :: `Allergy 6 14 steroids C0038317` contained in `Allergy 0 38 nasal steroids caused increased ocular C0582125`
+2020-03-17 22:38:59,768 :: Coinciding annotations: Allergy 6 14 steroids C0582125 : Allergy 6 14 steroids C0038317
+2020-03-17 22:38:59,768 :: Correct match: Allergy 6 14 steroids C0582125 : Allergy 6 14 steroids C0038317
+2020-03-17 22:38:59,768 :: File: D323.ann
+2020-03-17 22:38:59,768 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,768 :: Matching annotations: Allergy 0 5 sugar C0242209 : Allergy 0 5 sugar C0242209
+2020-03-17 22:38:59,769 :: Matching annotations: Allergy 0 5 sugar C0242209 : Allergy 0 5 sugar C0242209
+2020-03-17 22:38:59,769 :: Coinciding annotations: Allergy 0 5 sugar C0242209 : Allergy 0 5 sugar C0242209
+2020-03-17 22:38:59,769 :: Correct match: Allergy 0 5 sugar C0242209 : Allergy 0 5 sugar C0242209
+2020-03-17 22:38:59,769 :: File: D359.ann
+2020-03-17 22:38:59,769 :: Annotations A: 3	Annotations B: 2
+2020-03-17 22:38:59,769 :: Matching annotations: Allergy 0 36 citrus fruit especially orange juice C0600183 : Allergy 0 36 citrus fruit especially orange juice C0600183
+2020-03-17 22:38:59,769 :: Matching annotations: Allergy 0 12 citrus fruit C0600183 : Allergy 0 12 citrus fruit C0600183
+2020-03-17 22:38:59,769 :: Matching annotations: Allergy 24 36 orange juice C0452458 : Allergy 24 36 orange juice C0452458
+2020-03-17 22:38:59,769 :: Matching annotations: PHI 0 12 citrus fruit C0600183 : PHI 0 12 citrus fruit C0600183
+2020-03-17 22:38:59,769 :: Matching annotations: PHI 24 36 orange juice C0452458 : PHI 24 36 orange juice C0452458
+2020-03-17 22:38:59,769 :: `PHI 0 12 citrus fruit C0600183` contained in `Allergy 0 36 citrus fruit especially orange juice C0600183`
+2020-03-17 22:38:59,769 :: `PHI 24 36 orange juice C0452458` contained in `Allergy 0 36 citrus fruit especially orange juice C0600183`
+2020-03-17 22:38:59,769 :: Coinciding annotations: Allergy 0 12 citrus fruit C0600183 : PHI 0 12 citrus fruit C0600183
+2020-03-17 22:38:59,769 :: Incorrect match: Allergy 0 12 citrus fruit C0600183 : PHI 0 12 citrus fruit C0600183
+2020-03-17 22:38:59,769 :: Coinciding annotations: Allergy 24 36 orange juice C0452458 : PHI 24 36 orange juice C0452458
+2020-03-17 22:38:59,769 :: Incorrect match: Allergy 24 36 orange juice C0452458 : PHI 24 36 orange juice C0452458
+2020-03-17 22:38:59,769 :: File: D324.ann
+2020-03-17 22:38:59,769 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,769 :: Matching annotations: Allergy 0 13 vicryl suture C1576039 : Allergy 0 13 vicryl suture C1576039
+2020-03-17 22:38:59,769 :: Matching annotations: Allergy 0 13 vicryl suture C4551421 : Allergy 0 13 vicryl suture C4551421
+2020-03-17 22:38:59,769 :: Coinciding annotations: Allergy 0 13 vicryl suture C1576039 : Allergy 0 13 vicryl suture C4551421
+2020-03-17 22:38:59,769 :: Correct match: Allergy 0 13 vicryl suture C1576039 : Allergy 0 13 vicryl suture C4551421
+2020-03-17 22:38:59,769 :: File: D360.ann
+2020-03-17 22:38:59,769 :: Annotations A: 1	Annotations B: 2
+2020-03-17 22:38:59,769 :: Matching annotations: Allergy 0 15 all reflux meds C0017173 : Allergy 0 15 all reflux meds C0017173
+2020-03-17 22:38:59,769 :: Matching annotations: Allergy 4 10 reflux C0017168 : Allergy 4 10 reflux C0017168
+2020-03-17 22:38:59,769 :: Matching annotations: Allergy 11 15 meds C1254351 : Allergy 11 15 meds C1254351
+2020-03-17 22:38:59,770 :: `Allergy 4 10 reflux C0017168` contained in `Allergy 0 15 all reflux meds C0017173`
+2020-03-17 22:38:59,770 :: `Allergy 11 15 meds C1254351` contained in `Allergy 0 15 all reflux meds C0017173`
+2020-03-17 22:38:59,770 :: Patrtial match: Allergy 0 15 all reflux meds C0017173 : Allergy 11 15 meds C1254351
+2020-03-17 22:38:59,770 :: File: D325.ann
+2020-03-17 22:38:59,770 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,770 :: Matching annotations: Allergy 0 16 Seasonal allergy C0018621 : Allergy 0 16 Seasonal allergy C0018621
+2020-03-17 22:38:59,770 :: Matching annotations: Allergy 0 16 Seasonal allergy C0018621 : Allergy 0 16 Seasonal allergy C0018621
+2020-03-17 22:38:59,770 :: Coinciding annotations: Allergy 0 16 Seasonal allergy C0018621 : Allergy 0 16 Seasonal allergy C0018621
+2020-03-17 22:38:59,770 :: Correct match: Allergy 0 16 Seasonal allergy C0018621 : Allergy 0 16 Seasonal allergy C0018621
+2020-03-17 22:38:59,770 :: File: D361.ann
+2020-03-17 22:38:59,770 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,770 :: Matching annotations: Allergy 0 24 sensitivity to narcotics C0242402 : Allergy 0 24 sensitivity to narcotics C0242402
+2020-03-17 22:38:59,770 :: Matching annotations: Allergy 15 24 narcotics C0242402 : Allergy 15 24 narcotics C0242402
+2020-03-17 22:38:59,770 :: Matching annotations: PHI 15 24 narcotics C0027415 : PHI 15 24 narcotics C0027415
+2020-03-17 22:38:59,770 :: `PHI 15 24 narcotics C0027415` contained in `Allergy 0 24 sensitivity to narcotics C0242402`
+2020-03-17 22:38:59,770 :: Coinciding annotations: Allergy 15 24 narcotics C0242402 : PHI 15 24 narcotics C0027415
+2020-03-17 22:38:59,770 :: Incorrect match: Allergy 15 24 narcotics C0242402 : PHI 15 24 narcotics C0027415
+2020-03-17 22:38:59,770 :: File: D326.ann
+2020-03-17 22:38:59,770 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,770 :: Matching annotations: Allergy 0 9 tylenol 3 C2351132 : Allergy 0 9 tylenol 3 C2351132
+2020-03-17 22:38:59,770 :: Matching annotations: Allergy 0 9 tylenol 3 C0876202 : Allergy 0 9 tylenol 3 C0876202
+2020-03-17 22:38:59,770 :: Coinciding annotations: Allergy 0 9 tylenol 3 C2351132 : Allergy 0 9 tylenol 3 C0876202
+2020-03-17 22:38:59,770 :: Correct match: Allergy 0 9 tylenol 3 C2351132 : Allergy 0 9 tylenol 3 C0876202
+2020-03-17 22:38:59,770 :: File: D362.ann
+2020-03-17 22:38:59,770 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,770 :: Matching annotations: Allergy 0 5 Crabs C0010260 : Allergy 0 5 Crabs C0010260
+2020-03-17 22:38:59,770 :: Matching annotations: Allergy 0 5 Crabs C0010260 : Allergy 0 5 Crabs C4520783
+2020-03-17 22:38:59,771 :: Matching annotations: Allergy 0 5 Crabs C0010260 : Allergy 0 5 Crabs C0010260
+2020-03-17 22:38:59,771 :: Coinciding annotations: Allergy 0 5 Crabs C4520783 : Allergy 0 5 Crabs C0010260
+2020-03-17 22:38:59,771 :: Correct match: Allergy 0 5 Crabs C4520783 : Allergy 0 5 Crabs C0010260
+2020-03-17 22:38:59,771 :: File: D327.ann
+2020-03-17 22:38:59,771 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,771 :: Matching annotations: Allergy 0 13 LATEX ALLERGY C0023115 : Allergy 0 13 LATEX ALLERGY C0023115
+2020-03-17 22:38:59,771 :: Matching annotations: Allergy 0 5 LATEX C0023115 : Allergy 0 5 LATEX C0023115
+2020-03-17 22:38:59,771 :: Matching annotations: Allergy 0 5 LATEX C0023115 : Allergy 0 5 LATEX C0023115
+2020-03-17 22:38:59,771 :: `Allergy 0 5 LATEX C0023115` contained in `Allergy 0 13 LATEX ALLERGY C0023115`
+2020-03-17 22:38:59,771 :: Coinciding annotations: Allergy 0 5 LATEX C0023115 : Allergy 0 5 LATEX C0023115
+2020-03-17 22:38:59,771 :: Correct match: Allergy 0 5 LATEX C0023115 : Allergy 0 5 LATEX C0023115
+2020-03-17 22:38:59,771 :: File: D363.ann
+2020-03-17 22:38:59,771 :: Annotations A: 4	Annotations B: 3
+2020-03-17 22:38:59,771 :: Matching annotations: Allergy 0 9 bee sting C0004920 : Allergy 0 9 bee sting C0004920
+2020-03-17 22:38:59,771 :: Matching annotations: Allergy 0 3 bee C0004923 : Allergy 0 3 bee C0004923
+2020-03-17 22:38:59,771 :: Matching annotations: Allergy 10 14 dust C0524581 : Allergy 10 14 dust C0524581
+2020-03-17 22:38:59,771 :: Matching annotations: Allergy 15 19 mold C0369241 : Allergy 15 19 mold C0369241
+2020-03-17 22:38:59,771 :: Matching annotations: Allergy 0 9 bee sting C0413120 : Allergy 0 9 bee sting C0413120
+2020-03-17 22:38:59,771 :: Matching annotations: Allergy 10 14 dust C0013330 : Allergy 10 14 dust C0013330
+2020-03-17 22:38:59,771 :: Matching annotations: Allergy 15 19 mold C0369241 : Allergy 15 19 mold C0369241
+2020-03-17 22:38:59,771 :: Coinciding annotations: Allergy 0 9 bee sting C0004920 : Allergy 0 9 bee sting C0413120
+2020-03-17 22:38:59,771 :: Correct match: Allergy 0 9 bee sting C0004920 : Allergy 0 9 bee sting C0413120
+2020-03-17 22:38:59,771 :: `Allergy 0 9 bee sting C0413120` :contains: `Allergy 0 3 bee C0004923`
+2020-03-17 22:38:59,771 :: Coinciding annotations: Allergy 10 14 dust C0524581 : Allergy 10 14 dust C0013330
+2020-03-17 22:38:59,771 :: Correct match: Allergy 10 14 dust C0524581 : Allergy 10 14 dust C0013330
+2020-03-17 22:38:59,771 :: Coinciding annotations: Allergy 15 19 mold C0369241 : Allergy 15 19 mold C0369241
+2020-03-17 22:38:59,771 :: Correct match: Allergy 15 19 mold C0369241 : Allergy 15 19 mold C0369241
+2020-03-17 22:38:59,771 :: File: D328.ann
+2020-03-17 22:38:59,772 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,772 :: Matching annotations: Allergy 0 5 z pak C0052796 : Allergy 0 5 z pak C0052796
+2020-03-17 22:38:59,772 :: Matching annotations: Allergy 0 5 z pak C0052796 : Allergy 0 5 z pak C0052796
+2020-03-17 22:38:59,772 :: Coinciding annotations: Allergy 0 5 z pak C0052796 : Allergy 0 5 z pak C0052796
+2020-03-17 22:38:59,772 :: Correct match: Allergy 0 5 z pak C0052796 : Allergy 0 5 z pak C0052796
+2020-03-17 22:38:59,772 :: File: D364.ann
+2020-03-17 22:38:59,772 :: Annotations A: 4	Annotations B: 4
+2020-03-17 22:38:59,772 :: Matching annotations: Allergy 0 3 PCN C0220892 : Allergy 0 3 PCN C0220892
+2020-03-17 22:38:59,772 :: Matching annotations: Allergy 5 17 Erythromycin C0014806 : Allergy 5 17 Erythromycin C0014806
+2020-03-17 22:38:59,772 :: Matching annotations: Allergy 19 24 vioxx C0762662 : Allergy 19 24 vioxx C0762662
+2020-03-17 22:38:59,772 :: Matching annotations: Allergy 26 38 tetracycline C0039644 : Allergy 26 38 tetracycline C0039644
+2020-03-17 22:38:59,772 :: Matching annotations: Allergy 0 3 PCN C0220892 : Allergy 0 3 PCN C0220892
+2020-03-17 22:38:59,772 :: Matching annotations: Allergy 5 17 Erythromycin C0014806 : Allergy 5 17 Erythromycin C0014806
+2020-03-17 22:38:59,772 :: Matching annotations: Allergy 19 24 vioxx C0876768 : Allergy 19 24 vioxx C0876768
+2020-03-17 22:38:59,772 :: Matching annotations: Allergy 26 38 tetracycline C0039644 : Allergy 26 38 tetracycline C0039644
+2020-03-17 22:38:59,772 :: Coinciding annotations: Allergy 0 3 PCN C0220892 : Allergy 0 3 PCN C0220892
+2020-03-17 22:38:59,772 :: Correct match: Allergy 0 3 PCN C0220892 : Allergy 0 3 PCN C0220892
+2020-03-17 22:38:59,772 :: Coinciding annotations: Allergy 5 17 Erythromycin C0014806 : Allergy 5 17 Erythromycin C0014806
+2020-03-17 22:38:59,772 :: Correct match: Allergy 5 17 Erythromycin C0014806 : Allergy 5 17 Erythromycin C0014806
+2020-03-17 22:38:59,772 :: Coinciding annotations: Allergy 19 24 vioxx C0762662 : Allergy 19 24 vioxx C0876768
+2020-03-17 22:38:59,772 :: Correct match: Allergy 19 24 vioxx C0762662 : Allergy 19 24 vioxx C0876768
+2020-03-17 22:38:59,772 :: Coinciding annotations: Allergy 26 38 tetracycline C0039644 : Allergy 26 38 tetracycline C0039644
+2020-03-17 22:38:59,773 :: Correct match: Allergy 26 38 tetracycline C0039644 : Allergy 26 38 tetracycline C0039644
+2020-03-17 22:38:59,773 :: File: D329.ann
+2020-03-17 22:38:59,773 :: Annotations A: 2	Annotations B: 2
+2020-03-17 22:38:59,773 :: Matching annotations: Allergy 0 3 pcn C0220892 : Allergy 0 3 pcn C0220892
+2020-03-17 22:38:59,773 :: Matching annotations: Allergy 8 16 morphine C0026549 : Allergy 8 16 morphine C0026549
+2020-03-17 22:38:59,773 :: Matching annotations: Allergy 0 3 pcn C0220892 : Allergy 0 3 pcn C0220892
+2020-03-17 22:38:59,773 :: Matching annotations: Allergy 8 16 morphine C0026549 : Allergy 8 16 morphine C0026549
+2020-03-17 22:38:59,773 :: Coinciding annotations: Allergy 0 3 pcn C0220892 : Allergy 0 3 pcn C0220892
+2020-03-17 22:38:59,773 :: Correct match: Allergy 0 3 pcn C0220892 : Allergy 0 3 pcn C0220892
+2020-03-17 22:38:59,773 :: Coinciding annotations: Allergy 8 16 morphine C0026549 : Allergy 8 16 morphine C0026549
+2020-03-17 22:38:59,773 :: Correct match: Allergy 8 16 morphine C0026549 : Allergy 8 16 morphine C0026549
+2020-03-17 22:38:59,773 :: File: D365.ann
+2020-03-17 22:38:59,773 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,773 :: Matching annotations: Allergy 0 18 birth control pill C0009905 : Allergy 0 18 birth control pill C0009905
+2020-03-17 22:38:59,773 :: Matching annotations: Allergy 0 18 birth control pill C0009905 : Allergy 0 18 birth control pill C0009905
+2020-03-17 22:38:59,773 :: Coinciding annotations: Allergy 0 18 birth control pill C0009905 : Allergy 0 18 birth control pill C0009905
+2020-03-17 22:38:59,773 :: Correct match: Allergy 0 18 birth control pill C0009905 : Allergy 0 18 birth control pill C0009905
+2020-03-17 22:38:59,773 :: File: D330.ann
+2020-03-17 22:38:59,773 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,773 :: Matching annotations: Allergy 0 8 atenolol C0004147 : Allergy 0 8 atenolol C0004147
+2020-03-17 22:38:59,773 :: Matching annotations: Allergy 0 8 atenolol C0004147 : Allergy 0 8 atenolol C0004147
+2020-03-17 22:38:59,773 :: Coinciding annotations: Allergy 0 8 atenolol C0004147 : Allergy 0 8 atenolol C0004147
+2020-03-17 22:38:59,773 :: Correct match: Allergy 0 8 atenolol C0004147 : Allergy 0 8 atenolol C0004147
+2020-03-17 22:38:59,773 :: File: D366.ann
+2020-03-17 22:38:59,773 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,773 :: Matching annotations: Allergy 5 14 L A T E X C0023115 : Allergy 5 14 L A T E X C0023115
+2020-03-17 22:38:59,773 :: Matching annotations: Allergy 5 29 L A T E X  A L L E R G Y C0023115 : Allergy 5 29 L A T E X  A L L E R G Y C0023115
+2020-03-17 22:38:59,773 :: Matching annotations: PHI 5 14 L A T E X C0023115 : PHI 5 14 L A T E X C0023115
+2020-03-17 22:38:59,774 :: Coinciding annotations: Allergy 5 14 L A T E X C0023115 : PHI 5 14 L A T E X C0023115
+2020-03-17 22:38:59,774 :: Incorrect match: Allergy 5 14 L A T E X C0023115 : PHI 5 14 L A T E X C0023115
+2020-03-17 22:38:59,774 :: `PHI 5 14 L A T E X C0023115` contained in `Allergy 5 29 L A T E X  A L L E R G Y C0023115`
+2020-03-17 22:38:59,774 :: File: D335.ann
+2020-03-17 22:38:59,774 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,774 :: Matching annotations: Allergy 0 6 NIACIN C0027996 : Allergy 0 6 NIACIN C0027996
+2020-03-17 22:38:59,774 :: Matching annotations: Allergy 0 6 NIACIN C0027996 : Allergy 0 6 NIACIN C0027996
+2020-03-17 22:38:59,774 :: Coinciding annotations: Allergy 0 6 NIACIN C0027996 : Allergy 0 6 NIACIN C0027996
+2020-03-17 22:38:59,774 :: Correct match: Allergy 0 6 NIACIN C0027996 : Allergy 0 6 NIACIN C0027996
+2020-03-17 22:38:59,774 :: File: D367.ann
+2020-03-17 22:38:59,774 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,774 :: Matching annotations: Allergy 0 13 tetnus toxoid C0039620 : Allergy 0 13 tetnus toxoid C0039620
+2020-03-17 22:38:59,774 :: Matching annotations: Allergy 0 13 tetnus toxoid C1875034 : Allergy 0 13 tetnus toxoid C1875034
+2020-03-17 22:38:59,774 :: Coinciding annotations: Allergy 0 13 tetnus toxoid C0039620 : Allergy 0 13 tetnus toxoid C1875034
+2020-03-17 22:38:59,774 :: Correct match: Allergy 0 13 tetnus toxoid C0039620 : Allergy 0 13 tetnus toxoid C1875034
+2020-03-17 22:38:59,774 :: File: D336.ann
+2020-03-17 22:38:59,774 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,774 :: Matching annotations: Allergy 0 6 valium C0012010 : Allergy 0 6 valium C0012010
+2020-03-17 22:38:59,774 :: Matching annotations: Allergy 0 6 valium C0012010 : Allergy 0 6 valium C0012010
+2020-03-17 22:38:59,774 :: Coinciding annotations: Allergy 0 6 valium C0012010 : Allergy 0 6 valium C0012010
+2020-03-17 22:38:59,774 :: Correct match: Allergy 0 6 valium C0012010 : Allergy 0 6 valium C0012010
+2020-03-17 22:38:59,774 :: File: D368.ann
+2020-03-17 22:38:59,774 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,774 :: Matching annotations: Allergy 0 12 flu vaccine? C0021403 : Allergy 0 12 flu vaccine? C0021403
+2020-03-17 22:38:59,774 :: Matching annotations: Allergy 0 12 flu vaccine? C0021403 : Allergy 0 12 flu vaccine? C0021403
+2020-03-17 22:38:59,774 :: Coinciding annotations: Allergy 0 12 flu vaccine? C0021403 : Allergy 0 12 flu vaccine? C0021403
+2020-03-17 22:38:59,774 :: Correct match: Allergy 0 12 flu vaccine? C0021403 : Allergy 0 12 flu vaccine? C0021403
+2020-03-17 22:38:59,774 :: File: D337.ann
+2020-03-17 22:38:59,775 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 0 13 Tylenol sinus C1519705 : Allergy 0 13 Tylenol sinus C1519705
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 0 13 Tylenol sinus C1519705 : Allergy 0 13 Tylenol sinus C1519705
+2020-03-17 22:38:59,775 :: Coinciding annotations: Allergy 0 13 Tylenol sinus C1519705 : Allergy 0 13 Tylenol sinus C1519705
+2020-03-17 22:38:59,775 :: Correct match: Allergy 0 13 Tylenol sinus C1519705 : Allergy 0 13 Tylenol sinus C1519705
+2020-03-17 22:38:59,775 :: File: D369.ann
+2020-03-17 22:38:59,775 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 0 13 Adhesive Tape C0001514 : Allergy 0 13 Adhesive Tape C0001514
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 0 13 Adhesive Tape C0021403 : Allergy 0 13 Adhesive Tape C0021403
+2020-03-17 22:38:59,775 :: Coinciding annotations: Allergy 0 13 Adhesive Tape C0001514 : Allergy 0 13 Adhesive Tape C0021403
+2020-03-17 22:38:59,775 :: Correct match: Allergy 0 13 Adhesive Tape C0001514 : Allergy 0 13 Adhesive Tape C0021403
+2020-03-17 22:38:59,775 :: File: D338.ann
+2020-03-17 22:38:59,775 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 0 6 Onions C0029035 : Allergy 0 6 Onions C0029035
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 0 6 Onions C0029035 : Allergy 0 6 Onions C0029035
+2020-03-17 22:38:59,775 :: Coinciding annotations: Allergy 0 6 Onions C0029035 : Allergy 0 6 Onions C0029035
+2020-03-17 22:38:59,775 :: Correct match: Allergy 0 6 Onions C0029035 : Allergy 0 6 Onions C0029035
+2020-03-17 22:38:59,775 :: File: D370.ann
+2020-03-17 22:38:59,775 :: Annotations A: 10	Annotations B: 11
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 0 11 amoxicillin C0002645 : Allergy 0 11 amoxicillin C0002645
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 12 17 PCN G C0220892 : Allergy 12 17 PCN G C0220892
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 18 24 iodine C0021968 : Allergy 18 24 iodine C0021968
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 25 47 xray dyes and contrast C0009924 : Allergy 25 47 xray dyes and contrast C0009924
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 48 61 amytriptiline C0002600 : Allergy 48 61 amytriptiline C0002600
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 62 68 avelox C0536495 : Allergy 62 68 avelox C0536495
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 69 79 doxycillin C0013090 : Allergy 69 79 doxycillin C0013090
+2020-03-17 22:38:59,775 :: Matching annotations: Allergy 80 91 clindamycin C0008947 : Allergy 80 91 clindamycin C0008947
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 92 99 lovenox C0019139 : Allergy 92 99 lovenox C0019139
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 100 109 phenergan C0033405 : Allergy 100 109 phenergan C0033405
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 0 11 amoxicillin C0002645 : Allergy 0 11 amoxicillin C0002645
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 12 17 PCN G C0030827 : Allergy 12 17 PCN G C0030827
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 18 24 iodine C0021968 : Allergy 18 24 iodine C0021968
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 25 34 xray dyes C0013343 : Allergy 25 34 xray dyes C0013343
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 39 47 contrast C0009924 : Allergy 39 47 contrast C0009924
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 48 61 amytriptiline C0002600 : Allergy 48 61 amytriptiline C0002600
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 62 68 avelox C0875968 : Allergy 62 68 avelox C0875968
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 69 79 doxycillin C0013090 : Allergy 69 79 doxycillin C0013090
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 80 91 clindamycin C0008947 : Allergy 80 91 clindamycin C0008947
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 92 99 lovenox C0728963 : Allergy 92 99 lovenox C0728963
+2020-03-17 22:38:59,776 :: Matching annotations: Allergy 100 109 phenergan C0591971 : Allergy 100 109 phenergan C0591971
+2020-03-17 22:38:59,776 :: Coinciding annotations: Allergy 0 11 amoxicillin C0002645 : Allergy 0 11 amoxicillin C0002645
+2020-03-17 22:38:59,776 :: Correct match: Allergy 0 11 amoxicillin C0002645 : Allergy 0 11 amoxicillin C0002645
+2020-03-17 22:38:59,776 :: Coinciding annotations: Allergy 12 17 PCN G C0220892 : Allergy 12 17 PCN G C0030827
+2020-03-17 22:38:59,776 :: Correct match: Allergy 12 17 PCN G C0220892 : Allergy 12 17 PCN G C0030827
+2020-03-17 22:38:59,776 :: Coinciding annotations: Allergy 18 24 iodine C0021968 : Allergy 18 24 iodine C0021968
+2020-03-17 22:38:59,776 :: Correct match: Allergy 18 24 iodine C0021968 : Allergy 18 24 iodine C0021968
+2020-03-17 22:38:59,776 :: `Allergy 25 34 xray dyes C0013343` contained in `Allergy 25 47 xray dyes and contrast C0009924`
+2020-03-17 22:38:59,776 :: `Allergy 39 47 contrast C0009924` contained in `Allergy 25 47 xray dyes and contrast C0009924`
+2020-03-17 22:38:59,776 :: Patrtial match: Allergy 25 47 xray dyes and contrast C0009924 : Allergy 39 47 contrast C0009924
+2020-03-17 22:38:59,777 :: Coinciding annotations: Allergy 48 61 amytriptiline C0002600 : Allergy 48 61 amytriptiline C0002600
+2020-03-17 22:38:59,777 :: Correct match: Allergy 48 61 amytriptiline C0002600 : Allergy 48 61 amytriptiline C0002600
+2020-03-17 22:38:59,777 :: Coinciding annotations: Allergy 62 68 avelox C0536495 : Allergy 62 68 avelox C0875968
+2020-03-17 22:38:59,777 :: Correct match: Allergy 62 68 avelox C0536495 : Allergy 62 68 avelox C0875968
+2020-03-17 22:38:59,777 :: Coinciding annotations: Allergy 69 79 doxycillin C0013090 : Allergy 69 79 doxycillin C0013090
+2020-03-17 22:38:59,777 :: Correct match: Allergy 69 79 doxycillin C0013090 : Allergy 69 79 doxycillin C0013090
+2020-03-17 22:38:59,777 :: Coinciding annotations: Allergy 80 91 clindamycin C0008947 : Allergy 80 91 clindamycin C0008947
+2020-03-17 22:38:59,777 :: Correct match: Allergy 80 91 clindamycin C0008947 : Allergy 80 91 clindamycin C0008947
+2020-03-17 22:38:59,777 :: Coinciding annotations: Allergy 92 99 lovenox C0019139 : Allergy 92 99 lovenox C0728963
+2020-03-17 22:38:59,777 :: Correct match: Allergy 92 99 lovenox C0019139 : Allergy 92 99 lovenox C0728963
+2020-03-17 22:38:59,777 :: Coinciding annotations: Allergy 100 109 phenergan C0033405 : Allergy 100 109 phenergan C0591971
+2020-03-17 22:38:59,777 :: Correct match: Allergy 100 109 phenergan C0033405 : Allergy 100 109 phenergan C0591971
+2020-03-17 22:38:59,777 :: File: D339.ann
+2020-03-17 22:38:59,777 :: Annotations A: 2	Annotations B: 2
+2020-03-17 22:38:59,777 :: Matching annotations: Allergy 0 15 CONTRAST IODINE C0879373 : Allergy 0 15 CONTRAST IODINE C0879373
+2020-03-17 22:38:59,777 :: Matching annotations: Allergy 17 24 LIPITOR C0286651 : Allergy 17 24 LIPITOR C0286651
+2020-03-17 22:38:59,777 :: Matching annotations: Allergy 0 15 CONTRAST IODINE C0879373 : Allergy 0 15 CONTRAST IODINE C0879373
+2020-03-17 22:38:59,777 :: Matching annotations: Allergy 17 24 LIPITOR C0286651 : Allergy 17 24 LIPITOR C0286651
+2020-03-17 22:38:59,777 :: Coinciding annotations: Allergy 0 15 CONTRAST IODINE C0879373 : Allergy 0 15 CONTRAST IODINE C0879373
+2020-03-17 22:38:59,777 :: Correct match: Allergy 0 15 CONTRAST IODINE C0879373 : Allergy 0 15 CONTRAST IODINE C0879373
+2020-03-17 22:38:59,777 :: Coinciding annotations: Allergy 17 24 LIPITOR C0286651 : Allergy 17 24 LIPITOR C0286651
+2020-03-17 22:38:59,777 :: Correct match: Allergy 17 24 LIPITOR C0286651 : Allergy 17 24 LIPITOR C0286651
+2020-03-17 22:38:59,777 :: File: D371.ann
+2020-03-17 22:38:59,777 :: Annotations A: 2	Annotations B: 2
+2020-03-17 22:38:59,777 :: Matching annotations: Allergy 0 3 asa C0004057 : Allergy 0 3 asa C0004057
+2020-03-17 22:38:59,777 :: Matching annotations: Allergy 4 10 codine C0009214 : Allergy 4 10 codine C0009214
+2020-03-17 22:38:59,777 :: Matching annotations: Allergy 0 3 asa C0004057 : Allergy 0 3 asa C0004057
+2020-03-17 22:38:59,778 :: Matching annotations: Allergy 4 10 codine C0009214 : Allergy 4 10 codine C0009214
+2020-03-17 22:38:59,778 :: Coinciding annotations: Allergy 0 3 asa C0004057 : Allergy 0 3 asa C0004057
+2020-03-17 22:38:59,778 :: Correct match: Allergy 0 3 asa C0004057 : Allergy 0 3 asa C0004057
+2020-03-17 22:38:59,778 :: Coinciding annotations: Allergy 4 10 codine C0009214 : Allergy 4 10 codine C0009214
+2020-03-17 22:38:59,778 :: Correct match: Allergy 4 10 codine C0009214 : Allergy 4 10 codine C0009214
+2020-03-17 22:38:59,778 :: File: D372.ann
+2020-03-17 22:38:59,778 :: Annotations A: 2	Annotations B: 2
+2020-03-17 22:38:59,778 :: Matching annotations: Allergy 0 4 tape C0001514 : Allergy 0 4 tape C0001514
+2020-03-17 22:38:59,778 :: Matching annotations: Allergy 7 16 band aids C0001512 : Allergy 7 16 band aids C0001512
+2020-03-17 22:38:59,778 :: Matching annotations: Allergy 0 4 tape C0183837 : Allergy 0 4 tape C0183837
+2020-03-17 22:38:59,778 :: Matching annotations: Allergy 7 16 band aids C0178962 : Allergy 7 16 band aids C0178962
+2020-03-17 22:38:59,778 :: Coinciding annotations: Allergy 0 4 tape C0001514 : Allergy 0 4 tape C0183837
+2020-03-17 22:38:59,778 :: Correct match: Allergy 0 4 tape C0001514 : Allergy 0 4 tape C0183837
+2020-03-17 22:38:59,778 :: Coinciding annotations: Allergy 7 16 band aids C0001512 : Allergy 7 16 band aids C0178962
+2020-03-17 22:38:59,778 :: Correct match: Allergy 7 16 band aids C0001512 : Allergy 7 16 band aids C0178962
+2020-03-17 22:38:59,778 :: File: D373.ann
+2020-03-17 22:38:59,778 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,778 :: Matching annotations: Allergy 0 11 painkillers C0002771 : Allergy 0 11 painkillers C0002771
+2020-03-17 22:38:59,778 :: Matching annotations: Allergy 0 11 painkillers C0002771 : Allergy 0 11 painkillers C0002771
+2020-03-17 22:38:59,778 :: Coinciding annotations: Allergy 0 11 painkillers C0002771 : Allergy 0 11 painkillers C0002771
+2020-03-17 22:38:59,778 :: Correct match: Allergy 0 11 painkillers C0002771 : Allergy 0 11 painkillers C0002771
+2020-03-17 22:38:59,778 :: File: D374.ann
+2020-03-17 22:38:59,778 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,778 :: Matching annotations: Allergy 0 6 gluten C2362561 : Allergy 0 6 gluten C2362561
+2020-03-17 22:38:59,778 :: Matching annotations: Allergy 0 6 gluten C2362561 : Allergy 0 6 gluten C2362561
+2020-03-17 22:38:59,778 :: Coinciding annotations: Allergy 0 6 gluten C2362561 : Allergy 0 6 gluten C2362561
+2020-03-17 22:38:59,778 :: Correct match: Allergy 0 6 gluten C2362561 : Allergy 0 6 gluten C2362561
+2020-03-17 22:38:59,778 :: File: D375.ann
+2020-03-17 22:38:59,778 :: Annotations A: 3	Annotations B: 3
+2020-03-17 22:38:59,779 :: Matching annotations: Allergy 4 14 tetracaine C0039629 : Allergy 4 14 tetracaine C0039629
+2020-03-17 22:38:59,779 :: Matching annotations: Allergy 15 24 adrenalin C0014563 : Allergy 15 24 adrenalin C0014563
+2020-03-17 22:38:59,779 :: Matching annotations: Allergy 25 32 cocaine C0009170 : Allergy 25 32 cocaine C0009170
+2020-03-17 22:38:59,779 :: Matching annotations: Allergy 4 14 tetracaine C0039629 : Allergy 4 14 tetracaine C0039629
+2020-03-17 22:38:59,779 :: Matching annotations: Allergy 15 24 adrenalin C0014563 : Allergy 15 24 adrenalin C0014563
+2020-03-17 22:38:59,779 :: Matching annotations: Allergy 25 32 cocaine C0009170 : Allergy 25 32 cocaine C0009170
+2020-03-17 22:38:59,779 :: Coinciding annotations: Allergy 4 14 tetracaine C0039629 : Allergy 4 14 tetracaine C0039629
+2020-03-17 22:38:59,779 :: Correct match: Allergy 4 14 tetracaine C0039629 : Allergy 4 14 tetracaine C0039629
+2020-03-17 22:38:59,779 :: Coinciding annotations: Allergy 15 24 adrenalin C0014563 : Allergy 15 24 adrenalin C0014563
+2020-03-17 22:38:59,779 :: Correct match: Allergy 15 24 adrenalin C0014563 : Allergy 15 24 adrenalin C0014563
+2020-03-17 22:38:59,779 :: Coinciding annotations: Allergy 25 32 cocaine C0009170 : Allergy 25 32 cocaine C0009170
+2020-03-17 22:38:59,779 :: Correct match: Allergy 25 32 cocaine C0009170 : Allergy 25 32 cocaine C0009170
+2020-03-17 22:38:59,779 :: File: D376.ann
+2020-03-17 22:38:59,779 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,779 :: Matching annotations: Allergy 10 15 LATEX C0023115 : Allergy 10 15 LATEX C0023115
+2020-03-17 22:38:59,779 :: Matching annotations: Allergy 9 15 *LATEX C0023115 : Allergy 9 15 *LATEX C0023115
+2020-03-17 22:38:59,779 :: `Allergy 9 15 *LATEX C0023115` :contains: `Allergy 10 15 LATEX C0023115`
+2020-03-17 22:38:59,779 :: Partial match: `Allergy 10 15 LATEX C0023115` in `Allergy 9 15 *LATEX C0023115`
+2020-03-17 22:38:59,779 :: File: D377.ann
+2020-03-17 22:38:59,779 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,779 :: Matching annotations: Allergy 0 14 iv contrst dye C4072741 : Allergy 0 14 iv contrst dye C4072741
+2020-03-17 22:38:59,779 :: Matching annotations: Allergy 3 14 contrst dye C0742795 : Allergy 3 14 contrst dye C0742795
+2020-03-17 22:38:59,779 :: `Allergy 3 14 contrst dye C0742795` contained in `Allergy 0 14 iv contrst dye C4072741`
+2020-03-17 22:38:59,779 :: Patrtial match: Allergy 0 14 iv contrst dye C4072741 : Allergy 3 14 contrst dye C0742795
+2020-03-17 22:38:59,779 :: File: D378.ann
+2020-03-17 22:38:59,779 :: Annotations A: 1	Annotations B: 2
+2020-03-17 22:38:59,780 :: Matching annotations: Allergy 0 10 metoprolol C0025859 : Allergy 0 10 metoprolol C0025859
+2020-03-17 22:38:59,780 :: Matching annotations: Allergy 0 10 metoprolol C0025859 : Allergy 0 10 metoprolol C0025859
+2020-03-17 22:38:59,780 :: Matching annotations: PHI 0 10 metoprolol C0025859 : PHI 0 10 metoprolol C0025859
+2020-03-17 22:38:59,780 :: Coinciding annotations: Allergy 0 10 metoprolol C0025859 : Allergy 0 10 metoprolol C0025859
+2020-03-17 22:38:59,780 :: Coinciding annotations: Allergy 0 10 metoprolol C0025859 : PHI 0 10 metoprolol C0025859
+2020-03-17 22:38:59,780 :: Correct match: Allergy 0 10 metoprolol C0025859 : Allergy 0 10 metoprolol C0025859
+2020-03-17 22:38:59,780 :: Incorrect match: Allergy 0 10 metoprolol C0025859 : PHI 0 10 metoprolol C0025859
+2020-03-17 22:38:59,780 :: File: D379.ann
+2020-03-17 22:38:59,780 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,780 :: Matching annotations: Allergy 0 7 cat gut C0007420 : Allergy 0 7 cat gut C0007420
+2020-03-17 22:38:59,780 :: Matching annotations: Allergy 0 16 cat gut stitches C0441205 : Allergy 0 16 cat gut stitches C0441205
+2020-03-17 22:38:59,780 :: Matching annotations: Allergy 0 16 cat gut stitches C0441205 : Allergy 0 16 cat gut stitches C0441205
+2020-03-17 22:38:59,780 :: `Allergy 0 16 cat gut stitches C0441205` :contains: `Allergy 0 7 cat gut C0007420`
+2020-03-17 22:38:59,780 :: Coinciding annotations: Allergy 0 16 cat gut stitches C0441205 : Allergy 0 16 cat gut stitches C0441205
+2020-03-17 22:38:59,780 :: Correct match: Allergy 0 16 cat gut stitches C0441205 : Allergy 0 16 cat gut stitches C0441205
+2020-03-17 22:38:59,780 :: File: D380.ann
+2020-03-17 22:38:59,780 :: Annotations A: 3	Annotations B: 3
+2020-03-17 22:38:59,780 :: Matching annotations: Allergy 0 7 peanuts C0949399 : Allergy 0 7 peanuts C0949399
+2020-03-17 22:38:59,780 :: Matching annotations: Allergy 9 13 peas C0030738 : Allergy 9 13 peas C0030738
+2020-03-17 22:38:59,780 :: Matching annotations: Allergy 15 22 seasame C1123051 : Allergy 15 22 seasame C1123051
+2020-03-17 22:38:59,780 :: Matching annotations: Allergy 0 7 peanuts C0949399 : Allergy 0 7 peanuts C0949399
+2020-03-17 22:38:59,780 :: Matching annotations: Allergy 9 13 peas C0030738 : Allergy 9 13 peas C0030738
+2020-03-17 22:38:59,780 :: Matching annotations: Allergy 15 22 seasame C1123051 : Allergy 15 22 seasame C1123051
+2020-03-17 22:38:59,781 :: Coinciding annotations: Allergy 0 7 peanuts C0949399 : Allergy 0 7 peanuts C0949399
+2020-03-17 22:38:59,781 :: Correct match: Allergy 0 7 peanuts C0949399 : Allergy 0 7 peanuts C0949399
+2020-03-17 22:38:59,781 :: Coinciding annotations: Allergy 9 13 peas C0030738 : Allergy 9 13 peas C0030738
+2020-03-17 22:38:59,781 :: Correct match: Allergy 9 13 peas C0030738 : Allergy 9 13 peas C0030738
+2020-03-17 22:38:59,781 :: Coinciding annotations: Allergy 15 22 seasame C1123051 : Allergy 15 22 seasame C1123051
+2020-03-17 22:38:59,781 :: Correct match: Allergy 15 22 seasame C1123051 : Allergy 15 22 seasame C1123051
+2020-03-17 22:38:59,781 :: File: D381.ann
+2020-03-17 22:38:59,781 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,781 :: Matching annotations: Allergy 0 8 Parabens C0030398 : Allergy 0 8 Parabens C0030398
+2020-03-17 22:38:59,781 :: Matching annotations: Allergy 0 8 Parabens C0030398 : Allergy 0 8 Parabens C0030398
+2020-03-17 22:38:59,781 :: Coinciding annotations: Allergy 0 8 Parabens C0030398 : Allergy 0 8 Parabens C0030398
+2020-03-17 22:38:59,781 :: Correct match: Allergy 0 8 Parabens C0030398 : Allergy 0 8 Parabens C0030398
+2020-03-17 22:38:59,781 :: File: D382.ann
+2020-03-17 22:38:59,781 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,781 :: Matching annotations: Allergy 0 11 cotton seed C0010197 : Allergy 0 11 cotton seed C0010197
+2020-03-17 22:38:59,781 :: Matching annotations: Allergy 0 11 cotton seed C0010197 : Allergy 0 11 cotton seed C0010197
+2020-03-17 22:38:59,781 :: Coinciding annotations: Allergy 0 11 cotton seed C0010197 : Allergy 0 11 cotton seed C0010197
+2020-03-17 22:38:59,781 :: Correct match: Allergy 0 11 cotton seed C0010197 : Allergy 0 11 cotton seed C0010197
+2020-03-17 22:38:59,781 :: File: D383.ann
+2020-03-17 22:38:59,781 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,781 :: Matching annotations: Allergy 0 9 hay-fever C0018621 : Allergy 0 9 hay-fever C0018621
+2020-03-17 22:38:59,781 :: Matching annotations: Allergy 0 9 hay-fever C0018621 : Allergy 0 9 hay-fever C0018621
+2020-03-17 22:38:59,781 :: Coinciding annotations: Allergy 0 9 hay-fever C0018621 : Allergy 0 9 hay-fever C0018621
+2020-03-17 22:38:59,781 :: Correct match: Allergy 0 9 hay-fever C0018621 : Allergy 0 9 hay-fever C0018621
+2020-03-17 22:38:59,781 :: File: D384.ann
+2020-03-17 22:38:59,782 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 4 10 cherry C0936039 : Allergy 4 10 cherry C0936039
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 19 25 yogurt C0043419 : Allergy 19 25 yogurt C0043419
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 0 25 red/cherry yoplait yogurt C0043419 : Allergy 0 25 red/cherry yoplait yogurt C0043419
+2020-03-17 22:38:59,782 :: `Allergy 0 25 red/cherry yoplait yogurt C0043419` :contains: `Allergy 4 10 cherry C0936039`
+2020-03-17 22:38:59,782 :: `Allergy 0 25 red/cherry yoplait yogurt C0043419` :contains: `Allergy 19 25 yogurt C0043419`
+2020-03-17 22:38:59,782 :: Partial match: `Allergy 19 25 yogurt C0043419` in `Allergy 0 25 red/cherry yoplait yogurt C0043419`
+2020-03-17 22:38:59,782 :: File: D385.ann
+2020-03-17 22:38:59,782 :: Annotations A: 2	Annotations B: 3
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 0 6 Iodine C0303013 : Allergy 0 6 Iodine C0303013
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 11 20 shellfish C1304606 : Allergy 11 20 shellfish C1304606
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 0 6 Iodine C0021966 : Allergy 0 6 Iodine C0021966
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 11 20 shellfish C1304606 : Allergy 11 20 shellfish C1304606
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 26 29 PCN C0030842 : Allergy 26 29 PCN C0030842
+2020-03-17 22:38:59,782 :: Coinciding annotations: Allergy 0 6 Iodine C0303013 : Allergy 0 6 Iodine C0021966
+2020-03-17 22:38:59,782 :: Correct match: Allergy 0 6 Iodine C0303013 : Allergy 0 6 Iodine C0021966
+2020-03-17 22:38:59,782 :: Coinciding annotations: Allergy 11 20 shellfish C1304606 : Allergy 11 20 shellfish C1304606
+2020-03-17 22:38:59,782 :: Correct match: Allergy 11 20 shellfish C1304606 : Allergy 11 20 shellfish C1304606
+2020-03-17 22:38:59,782 :: File: D386.ann
+2020-03-17 22:38:59,782 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 0 6 keflex C0007716 : Allergy 0 6 keflex C0007716
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 0 6 keflex C0007716 : Allergy 0 6 keflex C0007716
+2020-03-17 22:38:59,782 :: Coinciding annotations: Allergy 0 6 keflex C0007716 : Allergy 0 6 keflex C0007716
+2020-03-17 22:38:59,782 :: Correct match: Allergy 0 6 keflex C0007716 : Allergy 0 6 keflex C0007716
+2020-03-17 22:38:59,782 :: File: D387.ann
+2020-03-17 22:38:59,782 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 0 15 tomato products C0242772 : Allergy 0 15 tomato products C0242772
+2020-03-17 22:38:59,782 :: Matching annotations: Allergy 0 15 tomato products C0242772 : Allergy 0 15 tomato products C0242772
+2020-03-17 22:38:59,783 :: Coinciding annotations: Allergy 0 15 tomato products C0242772 : Allergy 0 15 tomato products C0242772
+2020-03-17 22:38:59,783 :: Correct match: Allergy 0 15 tomato products C0242772 : Allergy 0 15 tomato products C0242772
+2020-03-17 22:38:59,783 :: File: D388.ann
+2020-03-17 22:38:59,783 :: Annotations A: 2	Annotations B: 2
+2020-03-17 22:38:59,783 :: Matching annotations: Allergy 0 3 PCN C0220892 : Allergy 0 3 PCN C0220892
+2020-03-17 22:38:59,783 :: Matching annotations: Allergy 5 11 REFLEX C0007716 : Allergy 5 11 REFLEX C0007716
+2020-03-17 22:38:59,783 :: Matching annotations: Allergy 0 3 PCN C0030842 : Allergy 0 3 PCN C0030842
+2020-03-17 22:38:59,783 :: Matching annotations: Allergy 5 11 REFLEX C1240568 : Allergy 5 11 REFLEX C1240568
+2020-03-17 22:38:59,783 :: Coinciding annotations: Allergy 0 3 PCN C0220892 : Allergy 0 3 PCN C0030842
+2020-03-17 22:38:59,783 :: Correct match: Allergy 0 3 PCN C0220892 : Allergy 0 3 PCN C0030842
+2020-03-17 22:38:59,783 :: Coinciding annotations: Allergy 5 11 REFLEX C0007716 : Allergy 5 11 REFLEX C1240568
+2020-03-17 22:38:59,783 :: Correct match: Allergy 5 11 REFLEX C0007716 : Allergy 5 11 REFLEX C1240568
+2020-03-17 22:38:59,783 :: File: D389.ann
+2020-03-17 22:38:59,783 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,783 :: Matching annotations: Allergy 0 10 cloth tape C1875817 : Allergy 0 10 cloth tape C1875817
+2020-03-17 22:38:59,783 :: Matching annotations: Allergy 0 10 cloth tape C1875817 : Allergy 0 10 cloth tape C2956156
+2020-03-17 22:38:59,783 :: Matching annotations: Allergy 0 10 cloth tape C1875817 : Allergy 0 10 cloth tape C1875817
+2020-03-17 22:38:59,783 :: Coinciding annotations: Allergy 0 10 cloth tape C2956156 : Allergy 0 10 cloth tape C1875817
+2020-03-17 22:38:59,783 :: Correct match: Allergy 0 10 cloth tape C2956156 : Allergy 0 10 cloth tape C1875817
+2020-03-17 22:38:59,783 :: File: D390.ann
+2020-03-17 22:38:59,783 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,783 :: Matching annotations: Allergy 29 33 eggs C0013710 : Allergy 29 33 eggs C0013710
+2020-03-17 22:38:59,783 :: Matching annotations: Allergy 29 33 eggs C0013710 : Allergy 29 33 eggs C0013710
+2020-03-17 22:38:59,784 :: Coinciding annotations: Allergy 29 33 eggs C0013710 : Allergy 29 33 eggs C0013710
+2020-03-17 22:38:59,784 :: Correct match: Allergy 29 33 eggs C0013710 : Allergy 29 33 eggs C0013710
+2020-03-17 22:38:59,784 :: File: D391.ann
+2020-03-17 22:38:59,784 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,784 :: Matching annotations: Allergy 0 15 succinylcholine C0038627 : Allergy 0 15 succinylcholine C0038627
+2020-03-17 22:38:59,784 :: Matching annotations: Allergy 0 15 succinylcholine C0038627 : Allergy 0 15 succinylcholine C0038627
+2020-03-17 22:38:59,784 :: Coinciding annotations: Allergy 0 15 succinylcholine C0038627 : Allergy 0 15 succinylcholine C0038627
+2020-03-17 22:38:59,784 :: Correct match: Allergy 0 15 succinylcholine C0038627 : Allergy 0 15 succinylcholine C0038627
+2020-03-17 22:38:59,784 :: File: D392.ann
+2020-03-17 22:38:59,784 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,784 :: Matching annotations: Allergy 0 15 anesthesia med? C0002932 : Allergy 0 15 anesthesia med? C0002932
+2020-03-17 22:38:59,784 :: Matching annotations: Allergy 0 15 anesthesia med? C0002932 : Allergy 0 15 anesthesia med? C0002932
+2020-03-17 22:38:59,784 :: Coinciding annotations: Allergy 0 15 anesthesia med? C0002932 : Allergy 0 15 anesthesia med? C0002932
+2020-03-17 22:38:59,784 :: Correct match: Allergy 0 15 anesthesia med? C0002932 : Allergy 0 15 anesthesia med? C0002932
+2020-03-17 22:38:59,784 :: File: D393.ann
+2020-03-17 22:38:59,784 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,784 :: Matching annotations: Allergy 0 3 Fur C0222052 : Allergy 0 3 Fur C0222052
+2020-03-17 22:38:59,784 :: Matching annotations: Allergy 0 3 Fur C0336892 : Allergy 0 3 Fur C0336892
+2020-03-17 22:38:59,784 :: Coinciding annotations: Allergy 0 3 Fur C0222052 : Allergy 0 3 Fur C0336892
+2020-03-17 22:38:59,784 :: Correct match: Allergy 0 3 Fur C0222052 : Allergy 0 3 Fur C0336892
+2020-03-17 22:38:59,784 :: File: D394.ann
+2020-03-17 22:38:59,784 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,784 :: Matching annotations: Allergy 0 6 tomato C0242772 : Allergy 0 6 tomato C0242772
+2020-03-17 22:38:59,784 :: Matching annotations: Allergy 0 6 tomato C1140676 : Allergy 0 6 tomato C1140676
+2020-03-17 22:38:59,784 :: Coinciding annotations: Allergy 0 6 tomato C0242772 : Allergy 0 6 tomato C1140676
+2020-03-17 22:38:59,784 :: Correct match: Allergy 0 6 tomato C0242772 : Allergy 0 6 tomato C1140676
+2020-03-17 22:38:59,784 :: File: D395.ann
+2020-03-17 22:38:59,784 :: Annotations A: 1	Annotations B: 2
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 0 23 seasonal- environmental C0018621 : Allergy 0 23 seasonal- environmental C0018621
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 0 8 seasonal C0018621 : Allergy 0 8 seasonal C0018621
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 10 23 environmental C0014412 : Allergy 10 23 environmental C0014412
+2020-03-17 22:38:59,785 :: `Allergy 0 8 seasonal C0018621` contained in `Allergy 0 23 seasonal- environmental C0018621`
+2020-03-17 22:38:59,785 :: `Allergy 10 23 environmental C0014412` contained in `Allergy 0 23 seasonal- environmental C0018621`
+2020-03-17 22:38:59,785 :: Patrtial match: Allergy 0 23 seasonal- environmental C0018621 : Allergy 10 23 environmental C0014412
+2020-03-17 22:38:59,785 :: File: D396.ann
+2020-03-17 22:38:59,785 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 0 11 marix syrup C0306718 : Allergy 0 11 marix syrup C0306718
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 0 5 marix C0721561 : Allergy 0 5 marix C0721561
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 0 11 marix syrup C0678431 : Allergy 0 11 marix syrup C0678431
+2020-03-17 22:38:59,785 :: Coinciding annotations: Allergy 0 11 marix syrup C0306718 : Allergy 0 11 marix syrup C0678431
+2020-03-17 22:38:59,785 :: Correct match: Allergy 0 11 marix syrup C0306718 : Allergy 0 11 marix syrup C0678431
+2020-03-17 22:38:59,785 :: `Allergy 0 11 marix syrup C0678431` :contains: `Allergy 0 5 marix C0721561`
+2020-03-17 22:38:59,785 :: File: D397.ann
+2020-03-17 22:38:59,785 :: Annotations A: 3	Annotations B: 2
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 0 4 corn C0010028 : Allergy 0 4 corn C0010028
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 5 10 wheat C0043137 : Allergy 5 10 wheat C0043137
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 5 10 wheat C0043137 : Allergy 5 10 wheat C0087114
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 0 4 corn C0010028 : Allergy 0 4 corn C0010028
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 5 10 wheat Food : Allergy 5 10 wheat Food
+2020-03-17 22:38:59,785 :: Coinciding annotations: Allergy 0 4 corn C0010028 : Allergy 0 4 corn C0010028
+2020-03-17 22:38:59,785 :: Correct match: Allergy 0 4 corn C0010028 : Allergy 0 4 corn C0010028
+2020-03-17 22:38:59,785 :: Coinciding annotations: Allergy 5 10 wheat C0087114 : Allergy 5 10 wheat Food
+2020-03-17 22:38:59,785 :: Correct match: Allergy 5 10 wheat C0087114 : Allergy 5 10 wheat Food
+2020-03-17 22:38:59,785 :: File: D398.ann
+2020-03-17 22:38:59,785 :: Annotations A: 3	Annotations B: 1
+2020-03-17 22:38:59,785 :: Matching annotations: Allergy 0 7 poultry C0032850 : Allergy 0 7 poultry C0032850
+2020-03-17 22:38:59,786 :: Matching annotations: Allergy 0 7 poultry C0032850 : Allergy 0 7 poultry C0032852
+2020-03-17 22:38:59,786 :: Matching annotations: Allergy 0 7 poultry C0032850 : Allergy 0 7 poultry C2362312
+2020-03-17 22:38:59,786 :: Matching annotations: Allergy 0 7 poultry C0452888 : Allergy 0 7 poultry C0452888
+2020-03-17 22:38:59,786 :: Coinciding annotations: Allergy 0 7 poultry C2362312 : Allergy 0 7 poultry C0452888
+2020-03-17 22:38:59,786 :: Correct match: Allergy 0 7 poultry C2362312 : Allergy 0 7 poultry C0452888
+2020-03-17 22:38:59,786 :: File: D399.ann
+2020-03-17 22:38:59,786 :: Annotations A: 1	Annotations B: 1
+2020-03-17 22:38:59,786 :: Matching annotations: Allergy 0 11 butazolidin C0699494 : Allergy 0 11 butazolidin C0699494
+2020-03-17 22:38:59,786 :: Matching annotations: Allergy 0 11 butazolidin C0699494 : Allergy 0 11 butazolidin C0699494
+2020-03-17 22:38:59,786 :: Coinciding annotations: Allergy 0 11 butazolidin C0699494 : Allergy 0 11 butazolidin C0699494
+2020-03-17 22:38:59,786 :: Correct match: Allergy 0 11 butazolidin C0699494 : Allergy 0 11 butazolidin C0699494
+2020-03-17 22:38:59,786 :: File: D400.ann
+2020-03-17 22:38:59,786 :: Annotations A: 2	Annotations B: 1
+2020-03-17 22:38:59,786 :: Matching annotations: Disease 10 37 hallucinations with all abx C1456732 : Disease 10 37 hallucinations with all abx C1456732
+2020-03-17 22:38:59,786 :: Matching annotations: Allergy 34 37 abx C0003232 : Allergy 34 37 abx C0003232
+2020-03-17 22:38:59,786 :: Matching annotations: Allergy 34 37 abx C0003232 : Allergy 34 37 abx C0003232
+2020-03-17 22:38:59,786 :: `Allergy 34 37 abx C0003232` contained in `Disease 10 37 hallucinations with all abx C1456732`
+2020-03-17 22:38:59,786 :: Coinciding annotations: Allergy 34 37 abx C0003232 : Allergy 34 37 abx C0003232
+2020-03-17 22:38:59,786 :: Correct match: Allergy 34 37 abx C0003232 : Allergy 34 37 abx C0003232
+
+-------------------MUC-Table--------------------
+------------------------------------------------
+pos:154
+act:138
+cor:121
+par:12
+inc:5
+mis:16
+spu:0
+------------------------------------------------
+pre:0.8768115942028986
+rec:0.7857142857142857
+fsc:0.8287671232876712
+------------------------------------------------
+und:0.1038961038961039
+ovg:0.0
+sub:0.12318840579710146
+------------------------------------------------
+bor:126
+ibo:12
+------------------------------------------------
